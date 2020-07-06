@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	box-sizing: border-box;
+	color:white;
+	margin: 0;
+	padding: 0;
+}
+.register_wrapper 
+{
+  background: linear-gradient(to bottom right, red 0%, #050119 100%);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.register_container 
+{
+  max-width: 500px;
+  margin:  0 auto;
+  text-align: center;
+}
+.register_container h1 
+{
+  font-size: 45px;
+  transition:1s;
+  font-weight: 500;
+}
+.register_form 
+{
+  padding: 0px 0;
+  position: relative;
+  z-index: 2;
+}
+.register_form select
+{
+	outline: 0;
+  	border: 1px solid white;
+  	background:rgba(156, 12, 12, 0.5);
+  	width: 280px;
+  	border-radius: 3px;
+  	padding: 10px 15px;
+  	margin: 0 auto 10px auto;
+  	display: block;
+  	text-align: center;
+  	font-size: 18px;
+  	color: white;
+  	font-weight: 300;
+}
+.register_form select:hover
+{
+	background-color:white;
+	color:#050119;
+}
+.register_form input 
+{
+  outline: 0;
+  border: 1px solid white;
+  background:rgb(222, 184, 135, 0.5);
+  width: 250px;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: #050119;
+  font-weight: 300;
+}
+.register_form input:hover 
+{
+  background-color:white;
+}
+.register_form button 
+{
+  outline: 0;
+  background-color:#050119;
+  border:none;
+  padding: 15px 5px;
+  color:white;
+  border-radius: 5px;
+  width: 250px;
+  font-size: 18px;
+}
+.register_form button:hover 
+{
+  background-color:red;
+}
+.register_form a
+{
+	color:white; 
+	font-size:20px;
+}
+.register_form a:hover
+{
+	font-size:26px;
+}

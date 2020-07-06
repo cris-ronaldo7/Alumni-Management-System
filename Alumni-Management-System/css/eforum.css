@@ -1,0 +1,32 @@
+body
+{
+	background-color:white;
+}
+.p1
+{
+	color:#050119;
+	font-size:30px;
+	font-style:oblique;
+	font-weight:bolder;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:50px;
+	padding-right:50px;
+}
+.p2
+{
+	color:#050119;
+	font-size:20px;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	text-decoration:underline;
+}
+.p3
+{
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	line-height:1.5;
+}

@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:white;
+	color:#050119;
+}
+h2
+{
+	font-style:italic;
+	margin-left:200px;
+	font-size:30px;
+	color:#050119;
+}
+.alumnifinancialtable
+{
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	width:880px;
+	border:2px solid;
+	text-align:center;
+	border-color:#050119;
+	border-radius:8px;
+}
+th
+{
+	font-size:20px;
+	text-align:center;
+	width:220px;
+	border-bottom:2px solid;
+}
+.alumnifinancialtd
+{
+	font-weight:200;
+	font-size:20px;
+	text-align:canter;
+	border:hidden;
+	width:220px;
+}
+.alumnifinancialbt
+{
+	color:white;
+	font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight:bold;
+	font-size:14px;
+	border:hidden;
+	border-radius:8px;
+	padding:12px 12px;
+	background-color:red;	
+}
+.alumnifinancialbt:hover
+{
+	background-color:maroon;
+}
+#alumnifinancial_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:navajowhite;
+	padding:10px;
+  	border-radius: 4px;
+}
+#alumnifinancial_totop:hover
+{
+	background-color:rgb(255, 136, 136);
+}

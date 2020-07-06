@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:white;
+}
+.table
+{
+	background-color:#050119;
+	border:none;
+	margin:0;
+	width:100%;
+}
+.ul1
+{
+	margin:0;
+	padding:0;
+}
+.li_image
+{
+	background-color:#050119;
+	float:left;
+	list-style-type:none;
+}
+.li1
+{
+	background-color:#050119;
+	float:left;
+	list-style-type:none;
+}
+.li1 a
+{
+	display:block;
+	padding:20px 20px;
+	text-decoration:none;
+    text-align:center;
+}
+.li1 a:hover
+{
+    background-color: red;
+}
+.li2
+{
+	background-color:#050119;
+	float:right;
+	list-style-type:none;
+}
+.li2 a
+{
+	display:block;
+	padding:20px 20px;
+	text-decoration:none;
+    text-align:center;
+}
+.li2 a:hover
+{
+    background-color: red;
+}
+.active
+{
+    background-color: darkblue;
+}
+.span1
+{
+	color:lightblue;	
+}
+.span2
+{
+	color:lightblue;	
+}
+.dropdown 
+{
+    position: relative;
+    display:inline-block;
+}
+.dropdown-content 
+{
+    display: none;
+    position: absolute;
+    background-color: lightblue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	list-style-type:none;
+}
+.dropdown-content a 
+{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover 
+{
+	background-color:red;
+}
+
+.dropdown:hover .dropdown-content 
+{
+    display:inline-block;
+}
+

@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:white;
+	color:#050119;
+}
+.dh2
+{
+	padding-left:150px;
+	color:#050119;
+	font-style:oblique;
+	font-size:36px;	
+}
+.tb1
+{
+	text-align:left;
+	font-size:18px;
+}
+select
+{
+	color:#050119;
+	font-weight:600;
+	font-size:16px;
+	background-color:white;
+	width:400px;	
+}
+.tb2
+{
+	text-align:left;
+	border:1.5px solid;	
+	border-radius:10px;
+	width:600px;
+}
+.th1
+{
+	text-align:left;
+	font-size:18px;
+	border:hidden;
+	padding-left:10px;
+	width:130px;
+}
+.td1
+{
+	font-size:18px;
+	text-align:justify;
+	width:470px;
+	padding-right:10px;
+}
+input.i1
+{
+	color:white;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background-color:red;
+	border:hidden;
+	font-size:16px;
+}
+button.bt1
+{
+	border-radius:4px;
+	font-size:16px;
+	padding:5px 15px;
+	font-weight:bold;
+	border:2px;
+	background-color:red;
+	color:white;
+}
+button.bt1:hover
+{
+	background-color:#050119;
+	color:white;
+}
+#deletepost_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#deletepost_totop:hover
+{
+	background-color:red;
+}

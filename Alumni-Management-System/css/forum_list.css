@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:white;
+	color:#050119;
+}
+.tb1
+{
+	border-radius:5px;
+	text-align:left;
+	border:2px solid;
+	border-color:#050119;	
+	width:550px;
+}
+.th1
+{
+	text-align:center;
+	font-size:36px;
+	border-bottom:1px solid;
+	padding:8px;
+}
+.td1
+{
+	font-weight:bold;
+	cursor:context-menu;
+	width:540px;
+}
+.sp1
+{
+	font-size:12px;
+	padding-bottom:5px;
+}
+.sp2
+{
+	font-size:16px;
+}
+.sp3
+{
+	text-decoration:underline;
+	font-weight:bold;
+	width:480px;
+	color:#050119;
+	font-size:24px;
+	background-color:white;
+}
+button.bt1
+{
+	border-radius:4px;
+	font-size:16px;
+	padding:5px 15px;
+	font-weight:bold;
+	border:2px;
+	background-color:white;
+	color:red;
+}
+button.bt1:hover
+{
+	background-color:#050119;
+	color:white;
+}
+.a1
+{
+	color:red;
+	font-size:16px;
+	padding:5px;
+}
+.a1:hover
+{
+	color:maroon;
+	font-size:20px;
+	padding:5px;
+}
+input.i2
+{
+	text-decoration:underline;
+	padding:5px;
+	font-weight:bold;
+	width:420px;
+	color:#050119;
+	font-size:16px;
+	border:solid;
+	background-color:white;
+}
+input.i2::placeholder
+{
+	padding:5px;
+	font-weight:bold;
+	width:420px;
+	color:#050119;
+	font-size:16px;
+}
+textarea.ta1
+{
+	text-decoration:underline;
+	padding:5px;
+	font-weight:bold;
+	width:420px;
+	color:#050119;
+	font-size:16px;
+	border:solid;
+	background-color:white;
+}
+td.td2
+{
+	border-bottom:1px solid;
+	width:150px;
+	font-weight:bold;
+	font-size:16px;
+}
+td.td3
+{
+	text-align:right;
+	width:200px;
+	font-weight:bold;
+	cursor:context-menu;
+	border-radius:2px;
+	border-bottom:1px solid;
+}
+#forumlist_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#forumlist_totop:hover
+{
+	background-color:red;
+}
+

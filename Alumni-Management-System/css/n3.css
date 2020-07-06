@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:white;
+}
+.np1
+{
+	color:#050119;
+	font-size:30px;
+	font-style:oblique;
+	font-weight:bolder;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:100px;
+	padding-right:100px;
+}
+.np2
+{
+	text-align:center;
+	color:#050119;
+	font-size:20px;
+	font-weight:bolder;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.nth1
+{
+	border-color:#050119;
+	text-align:center;
+	font-size:20px;
+	color:#050119;
+	border-bottom:1px solid;	
+	width:230px;
+}
+.ntd1
+{
+	text-align:center;
+	font-size:18px;
+	padding:5px 0px;
+	
+}
+#news_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#news_totop:hover
+{
+	background-color:red;
+}
+.tb1
+{
+	border-radius:5px;
+	text-align:left;
+	border:2px solid;
+	border-color:#050119;
+	width:700px;
+}

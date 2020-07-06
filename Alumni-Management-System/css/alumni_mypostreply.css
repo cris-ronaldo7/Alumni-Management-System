@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:white;
+	color:#050119;
+}
+.ptb1
+{
+	width:550px;
+	border:2px solid;
+	border-color:#050119;
+	border-radius:5px;
+}
+.psp1
+{
+	font-size:20px;	
+}
+.psp2
+{
+	font-size:16px;
+}
+.psp3
+{
+	font-size:12px;	
+}
+.ptd1
+{
+	border-bottom:1px solid;
+	border-color:#050119;
+}
+.pp1
+{
+	color:#050119;
+	font-weight:bold;
+	font-size:30px;
+	font-style:oblique;
+	padding-left:200px;
+}
+button.bt1
+{
+	border-radius:4px;
+	font-size:16px;
+	padding:5px 15px;
+	font-weight:bold;
+	border:2px;
+	background-color:red;
+	color:white;
+}
+button.bt1:hover
+{
+	background-color:#050119;
+	color:white;
+}
+#alumnipostreply_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#alumnipostreply_totop:hover
+{
+	background-color:red;
+}
+

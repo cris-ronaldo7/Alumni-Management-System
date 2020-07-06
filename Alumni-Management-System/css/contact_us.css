@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:white;
+}
+.p1
+{
+	color:#050119;
+	font-size:30px;
+	font-style:oblique;
+	font-weight:bolder;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:50px;
+	padding-right:50px;
+}
+.p2
+{
+	color:#050119;
+	font-size:20px;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	text-decoration:underline;
+}
+.p3
+{
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left:50px;
+	padding-right:50px;
+	line-height:1.5;
+}
+.ul2
+{
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	list-style-type:disc;
+	line-height:1.5;
+	margin-left:50px;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+#contact_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#contact_totop:hover
+{
+	background-color:red;
+}

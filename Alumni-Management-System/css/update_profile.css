@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:white;
+}
+h2
+{
+	font-style:italic;
+	margin-left:200px;
+	font-size:40px;
+	color:#050119;
+}
+.updatetable1
+{
+	width:600px;
+	border:2px solid;
+	text-align:center;
+	border-color:#050119;
+	border-radius:5px;
+}
+input, textarea
+{	
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	padding:5px;
+	margin-right:10px;
+	border:1.5px solid;
+	background-color:white;
+	border-radius:3px;
+}
+input:focus , textarea:focus
+{	
+	background-color:#050119;
+	color:white;
+}
+th
+{
+	font-size:16px;
+	width:250px;
+	border:hidden;
+	color:#050119;
+}
+.updatetd1
+{
+	font-size:16px;
+	border:hidden;
+	width:350px;
+}
+.select
+{
+	font-size: 16px;
+	border: 1px solid white;
+	
+	outline: 0;
+  	border: 1px solid #050119;
+  	background:white;
+  	width: 350px;
+  	border-radius: 3px;
+  	padding: 10px 15px;
+  	margin: 0 auto 10px auto;
+  	display: block;
+  	text-align: center;
+  	font-size: 18px;
+  	color: #050119;
+  	font-weight: 300;
+
+}
+.select:hover
+{
+	background-color:red;
+	color:#050119;
+}
+.updatebt
+{
+	font-weight:bold;
+	width:100px;
+	border:hidden;
+	background-color:#050119;
+	padding:10px;
+	font-size:16px;
+	color:burlywood;
+	margin-right:10px;
+}
+.updatebt:hover
+{
+	background-color:red;
+	color:white;
+}
+#updateprofile_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);
+	padding:10px;
+  	border-radius: 4px;
+}
+#updateprofile_totop:hover
+{
+	background-color:red;
+}

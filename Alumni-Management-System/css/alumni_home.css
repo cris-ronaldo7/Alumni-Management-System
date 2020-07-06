@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:white;
+}
+h2
+{
+	font-style:italic;
+	margin-left:200px;
+	font-size:40px;
+	color:#050119;
+}
+.alumnihometable1
+{
+	font-size:18px;
+	font-weight:bold;
+	width:520px;
+	border:2px solid;
+	text-align:center;
+	border-color:#050119;
+	border-radius:8px;
+}
+input , textarea
+{	
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	padding:5px;
+	border-color:#050119;
+	border:2px solid;
+	background-color:white;
+}
+input:focus , textarea:focus
+{	
+	background-color:#050119;
+	color:white;
+}
+th
+{
+	text-align:left;
+	width:180px;
+	border:hidden;
+}
+.alumnihometd1
+{
+	text-align:left;
+	padding:5px;
+	border:hidden;
+	width:340px;
+}
+.profile
+{
+	width:200px; 
+	height:200px; 
+	border:2px solid;
+	border-radius:8px;
+    border-color:#050119;
+}
+#alumnihome_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:rgb(255, 136, 136);;
+	padding:10px;
+  	border-radius: 4px;
+}
+#alumnihome_totop:hover
+{
+	background-color:red;
+}
