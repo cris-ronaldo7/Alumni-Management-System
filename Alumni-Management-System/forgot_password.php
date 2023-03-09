@@ -45,7 +45,7 @@ if(isset($_POST['retrieve']))
 	}
 	else
 	{
-		echo "<script>alert('ERROR: Please mail our administrator help_admin@techno.com to retrieve your password.')</script>";
+		echo "<script>alert('ERROR: Please mail our administrator help_admin@kgec.com to retrieve your password.')</script>";
 	}
 }
 ?>

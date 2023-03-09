@@ -14,9 +14,9 @@ include_once"setting/contactus_navigation.php";
 <div id="contact">
 <p class="p1">Contact</p>
 <p class="p2">Department Of Technology</p>
-<p class="p3">Techno Main Saltlake<br>
-EM - 4/1, Sector V, Salt-Lake<br>
-Kolkata - 700091<br>
+<p class="p3">Kalyani Government Engineering College<br>
+EM - 4/1, Kalyani West Bengal<br>
+Kolkata - 741235<br>
 West Bengal(W.B)<br><br></p>
 <table>
 <tr>
@@ -26,13 +26,13 @@ West Bengal(W.B)<br><br></p>
 			<p class="p3">Fax: +XXX XXX XXX </p>
 	</td>		
 	<td >
-    <p class="p2">Email:</p>emailus@technogroup.in<p class="p3"></p><br /><br />
+    <p class="p2">Email:</p>contact@kgec.edu.in<p class="p3"></p><br /><br />
     <p class="p2">Our Social Pages:</p>
-  <p class="p3"> <a href="https://www.facebook.com/tmslp/">
+  <p class="p3"> <a href="https://www.facebook.com/kgec/">
    <img src="pictures/facebook.png" width="40" height="40"></a> 
-   <a href="https://www.instagram.com/technoindia/"> 
+   <a href="https://www.instagram.com/kgec/"> 
    <img src="pictures/instagram.png" width="55" height="40">
-  </a> <a href="https://twitter.com/technoindia">
+  </a> <a href="https://twitter.com/kgec">
   <img src="pictures/twitter.png" width="40" height="40"></a></p><br /><br />
     </td>
 </tr>
@@ -46,12 +46,12 @@ West Bengal(W.B)<br><br></p>
 <p class="p1">FAQ</p>
 <p class="p2"><br>Who are our Alumni?</p>
 <p class="p3">All individuals who have followed Diploma, Undergraduate, Postgraduate or PhD of 
-the programmes of Techno Main Saltlake can register as our alumni.</p>
-<p class="p2"><br>How do I become a member of the Techno Main Saltlake Alumni?</p>
-<p class="p3">All undergraduates and post graduates of Techno Main Saltlake can register as
- our alumni. It is important for alumni to update their particulars for the TMSL Alumni
+the programmes of  KGEC can register as our alumni.</p>
+<p class="p2"><br>How do I become a member of the KGEC Alumni?</p>
+<p class="p3">All undergraduates and post graduates of KGEC can register as
+ our alumni. It is important for alumni to update their particulars for the KGEC Alumni
   Directory (Database) by register as a member online and pay at the counter of Alumni 
-  TMSL so that we can keep in touch with you for life.</p>
+  KGEC so that we can keep in touch with you for life.</p>
 <p class="p2"><br>Do I need to pay any fee?</p>
 
 <p class="p3">Yes, but it is only for membership registration. You can choose to pay

@@ -12,14 +12,14 @@ include_once"setting/aboutus_navigation.php";
 
 <body>
 <div id="history">
-<p class="p1">Techno Main Alumni Management Association</p>
-<p class="p3">The TMSL Alumni Association supervises the graduate programs in TMSL. 
+<p class="p1">KGEC Alumni Management Association</p>
+<p class="p3">The KGEC Alumni Association supervises the graduate programs in KGEC. 
 	This includes administering the admission, appointment of Alumnis, Members reviews, 
 	provision of financial assistance and assessment. </p><br />
 <p class="p2">FUNCTION OF  ALUMNI  MANAGEMENT  SYSTEM (AMS)</p>
 <p class="p3">The function of AMS includes the following:
 <ul class="ul2">
-	<li>Promoting TMSL’s graduate programs</li>
+	<li>Promoting KGEC’s graduate programs</li>
 	<li>Facilitate the appointment of Alumni's after graduation</li>
 	<li>Oversees the provision of financial assistance</li>
 	<li>Organises events for Alumnis </li>
